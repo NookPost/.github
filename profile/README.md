@@ -1,1 +1,1 @@
-## Welcom to the NookPost Project
+## Welcome to the NookPost Project
